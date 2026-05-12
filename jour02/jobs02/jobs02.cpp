@@ -13,12 +13,11 @@ int main(){
         case 3:
         case 4:
         case 5: cout << "Moyen\n"; 
-                        break;
         default : cout << "Grand\n";
     }
 }
 //n = 0 => Nul,Petit
 //n = 1 => Petit
-//n=4 => Moyen
+//n=4 => Moyen Grand
 //n=10 => Grand
-//n=5 => Moyen
+//n=-5 => Grand
