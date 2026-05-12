@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int n;
-    int fac=1;
+    double fac=1;
     do {
         cout << "Entrez un nombre entier a factoriser : ";
         cin >> n;
